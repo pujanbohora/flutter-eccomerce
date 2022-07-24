@@ -1,0 +1,4 @@
+#Tue Feb 15 11:53:38 NPT 2022
+base.0=/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

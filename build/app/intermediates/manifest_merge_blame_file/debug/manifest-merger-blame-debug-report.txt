@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.the_gadget_zone"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+15-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:5:3-78
+15-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:5:20-76
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:6:3-64
+16-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:6:20-61
+17    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+17-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:55:5-73
+17-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:55:22-71
+18    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+18-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+18-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-78
+19    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+19-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+19-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-76
+20    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+20-->[androidx.biometric:biometric:1.1.0] /Users/pawan/.gradle/caches/transforms-2/files-2.1/cbb3d625d33b72056d970fab9ec3f1b4/biometric-1.1.0/AndroidManifest.xml:24:5-72
+20-->[androidx.biometric:biometric:1.1.0] /Users/pawan/.gradle/caches/transforms-2/files-2.1/cbb3d625d33b72056d970fab9ec3f1b4/biometric-1.1.0/AndroidManifest.xml:24:22-69
+21
+22    <application
+22-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:8:4-54:19
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.6.0] /Users/pawan/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/launcher_icon"
+25-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:10:9-45
+26        android:label="the_gadget_zone" >
+26-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:9:9-40
+27        <activity
+27-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:11:9-41:20
+28            android:name="com.example.the_gadget_zone.MainActivity"
+28-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:12:13-41
+29            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+29-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:15:13-163
+30            android:hardwareAccelerated="true"
+30-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:16:13-47
+31            android:launchMode="singleTop"
+31-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:13:13-43
+32            android:showWhenLocked="true"
+32-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:17:13-42
+33            android:theme="@style/LaunchTheme"
+33-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:14:13-47
+34            android:turnScreenOn="true"
+34-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:18:13-40
+35            android:windowSoftInputMode="adjustResize" >
+35-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:19:13-55
+36
+37            <!--
+38                 Specifies an Android theme to apply to this Activity as soon as
+39                 the Android process has started. This theme is visible to the user
+40                 while the Flutter UI initializes. After that, this theme continues
+41                 to determine the Window background behind the Flutter UI.
+42            -->
+43            <meta-data
+43-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:24:13-27:17
+44                android:name="io.flutter.embedding.android.NormalTheme"
+44-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:25:15-70
+45                android:resource="@style/NormalTheme" />
+45-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:26:15-52
+46            <!--
+47                 Displays an Android View that continues showing the launch screen
+48                 Drawable until Flutter paints its first frame, then this splash
+49                 screen fades out. A splash screen is useful to avoid any visual
+50                 gap between the end of Android's launch screen and the painting of
+51                 Flutter's first frame.
+52            -->
+53            <meta-data
+53-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:33:13-36:17
+54                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+54-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:34:15-79
+55                android:resource="@drawable/launch_background" />
+55-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:35:15-61
+56
+57            <intent-filter>
+57-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:37:13-40:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:38:17-68
+58-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:38:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:39:17-76
+60-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:39:27-74
+61            </intent-filter>
+62        </activity>
+63
+64        <receiver
+64-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:43:9-47:20
+65            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
+65-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:43:19-107
+66            android:exported="false" >
+66-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+67            <intent-filter>
+67-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:44:9-46:25
+68                <action android:name="android.intent.action.BOOT_COMPLETED" />
+68-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:45:13-82
+68-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:45:21-72
+69            </intent-filter>
+70            <intent-filter>
+70-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-24:29
+71                <action android:name="android.intent.action.BOOT_COMPLETED" />
+71-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:45:13-82
+71-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:45:21-72
+72                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+72-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-84
+72-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-81
+73                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+73-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-82
+73-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:22:25-79
+74                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+74-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-82
+74-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:23:25-79
+75            </intent-filter>
+76        </receiver>
+77        <receiver
+77-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:48:9-106
+78            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
+78-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:48:19-103
+79            android:exported="false" />
+79-->[:flutter_local_notifications] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/flutter_local_notifications/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+80        <!--
+81             Don't delete the meta-data below.
+82             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+83        -->
+84        <meta-data
+84-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:51:9-53:33
+85            android:name="flutterEmbedding"
+85-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:52:13-44
+86            android:value="2" />
+86-->/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/android/app/src/main/AndroidManifest.xml:53:13-30
+87
+88        <provider
+88-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+89            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+89-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+90            android:authorities="com.example.the_gadget_zone.flutter.image_provider"
+90-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+91            android:exported="false"
+91-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+92            android:grantUriPermissions="true" >
+92-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+93            <meta-data
+93-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+94                android:name="android.support.FILE_PROVIDER_PATHS"
+94-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+95                android:resource="@xml/flutter_image_picker_file_paths" />
+95-->[:image_picker] /Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+96        </provider>
+97
+98        <uses-library
+98-->[androidx.window:window:1.0.0-beta04] /Users/pawan/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+99            android:name="androidx.window.extensions"
+99-->[androidx.window:window:1.0.0-beta04] /Users/pawan/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+100            android:required="false" />
+100-->[androidx.window:window:1.0.0-beta04] /Users/pawan/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+101        <uses-library
+101-->[androidx.window:window:1.0.0-beta04] /Users/pawan/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+102            android:name="androidx.window.sidecar"
+102-->[androidx.window:window:1.0.0-beta04] /Users/pawan/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+103            android:required="false" />
+103-->[androidx.window:window:1.0.0-beta04] /Users/pawan/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+104    </application>
+105
+106</manifest>

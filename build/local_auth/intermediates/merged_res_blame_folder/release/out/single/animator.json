@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/local_auth/intermediates/res/merged/release/animator/fragment_close_enter.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/84c7c3b33f6abfecdb5d3903569a2212/fragment-1.3.2/res/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/local_auth/intermediates/res/merged/release/animator/fragment_fade_exit.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/84c7c3b33f6abfecdb5d3903569a2212/fragment-1.3.2/res/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/local_auth/intermediates/res/merged/release/animator/fragment_open_enter.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/84c7c3b33f6abfecdb5d3903569a2212/fragment-1.3.2/res/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/local_auth/intermediates/res/merged/release/animator/fragment_close_exit.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/84c7c3b33f6abfecdb5d3903569a2212/fragment-1.3.2/res/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/local_auth/intermediates/res/merged/release/animator/fragment_fade_enter.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/84c7c3b33f6abfecdb5d3903569a2212/fragment-1.3.2/res/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/Users/pawan/Documents/5th sem/FlutterAssignment/the_gadget_zone/build/local_auth/intermediates/res/merged/release/animator/fragment_open_exit.xml",
+        "source": "/Users/pawan/.gradle/caches/transforms-2/files-2.1/84c7c3b33f6abfecdb5d3903569a2212/fragment-1.3.2/res/animator/fragment_open_exit.xml"
+    }
+]
